@@ -5,7 +5,6 @@ import lombok.Getter;
 import me.aeriformity.com.commands.SetDestinationCMD;
 import me.aeriformity.com.commands.SetPortalCMD;
 import me.aeriformity.com.events.OnMove;
-import org.bukkit.Location;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
