@@ -1,0 +1,5 @@
+name: PortalsMC
+version: '${project.version}'
+main: me.aeriformity.com.portalsmc.PortalsMC
+author: Aeriformity
+api-version: '1.20'
