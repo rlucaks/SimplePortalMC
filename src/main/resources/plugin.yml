@@ -1,5 +1,5 @@
 name: PortalsMC
 version: '${project.version}'
-main: me.aeriformity.com.portalsmc.PortalsMC
-author: Aeriformity
+main: me.aeriformality.com.portalsmc.PortalsMC
+author: Aeriformality
 api-version: '1.20'

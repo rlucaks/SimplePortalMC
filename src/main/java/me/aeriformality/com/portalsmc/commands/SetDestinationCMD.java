@@ -1,9 +1,9 @@
-package me.aeriformity.com.portalsmc.commands;
+package me.aeriformality.com.portalsmc.commands;
 
 import co.aikar.commands.BaseCommand;
 import co.aikar.commands.annotation.CommandAlias;
 import co.aikar.commands.annotation.CommandPermission;
-import me.aeriformity.com.portalsmc.PortalsMC;
+import me.aeriformality.com.portalsmc.PortalsMC;
 import org.bukkit.entity.Player;
 
 public class SetDestinationCMD extends BaseCommand {
