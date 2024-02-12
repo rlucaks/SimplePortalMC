@@ -1,10 +1,10 @@
-package me.aeriformity.com;
+package me.aeriformity.com.portalsmc;
 
 import co.aikar.commands.PaperCommandManager;
 import lombok.Getter;
-import me.aeriformity.com.commands.SetDestinationCMD;
-import me.aeriformity.com.commands.SetPortalCMD;
-import me.aeriformity.com.events.OnMove;
+import me.aeriformity.com.portalsmc.commands.SetDestinationCMD;
+import me.aeriformity.com.portalsmc.commands.SetPortalCMD;
+import me.aeriformity.com.portalsmc.events.OnMove;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
