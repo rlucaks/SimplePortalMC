@@ -1,4 +1,4 @@
-package me.aeriformity.com.portalsmc;
+package me.aeriformity.com;
 
 import co.aikar.commands.PaperCommandManager;
 import lombok.Getter;
@@ -30,11 +30,6 @@ public final class PortalsMC extends JavaPlugin {
 
         registerCommands();
         registerEvents();
-    }
-
-    @Override
-    public void onDisable() {
-
     }
 
     private void registerCommands() {

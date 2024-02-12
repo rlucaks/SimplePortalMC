@@ -1,6 +1,6 @@
 package me.aeriformity.com.events;
 
-import me.aeriformity.com.portalsmc.PortalsMC;
+import me.aeriformity.com.PortalsMC;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
